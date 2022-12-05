@@ -1,0 +1,60 @@
+body{
+    background : white;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a{
+    color:#11DB11;
+}
+
+a:hover{
+    color:#0fb40f;
+}
+
+footer{
+    width : 100%;
+    position : absolute;
+    bottom : 0;
+    background: #11DB11;
+    padding: 45px 40px 50px;
+}
+
+.logo{
+    max-width: 42%;
+}
+
+.panduan{
+    background: white;
+    margin-left: 560px;
+    position:absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-top: -48px;
+    border-radius: 10px;
+}
+
+.kotakpanduan{
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: -0.5px;
+}
+
+.tulisankotakpanduan {
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.search input[type="text"] {
+    position:absolute;
+    right: 6%;
+    bottom:41%;
+    width: 30%;
+    height: 31%;
+    background-color:white;
+    border-radius: 10px;
+}
